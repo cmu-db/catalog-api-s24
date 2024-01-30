@@ -1,2 +1,2 @@
 # catalog-api
-Catalog API Spec
+Catalog API Spec Collaboration
